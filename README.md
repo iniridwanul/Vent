@@ -8,6 +8,7 @@ Vent domain information retrieval tool, which is capable of retrieving customer 
 * `apt install git`
 * `git clone https://github.com/theridwanul/Vent.git`
 * `cd Vent`
+* `pip3 install -r requirements.txt`
 * `python3 vent.py`
 
 **Developer Contact**
